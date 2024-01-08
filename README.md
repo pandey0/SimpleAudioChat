@@ -35,4 +35,4 @@ Contributions to the project are welcome! Users are invited to open issues for b
 
 ## Screenshots
 
-
+<img width="284" alt="Screenshot 2024-01-08 194229" src="https://github.com/pandey0/SimpleAudioChat/assets/89128460/2a1c9fdb-1ba4-4bbe-b8a6-c87b2abf137c">
